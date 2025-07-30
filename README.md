@@ -2,7 +2,7 @@
 
 A command-line tool to predict the efficacy of small interfering RNAs (siRNAs). This tool is the official implementation of the model described in the paper:
 
-> Coffey, R. (2024). *Systematic feature and architecture evaluation reveals tokenized learned embeddings enhance siRNA efficacy prediction*. (Journal pending publication).
+> Coffey, R. (2025). *Systematic feature and architecture evaluation reveals tokenized learned embeddings enhance siRNA efficacy prediction*. (Journal pending publication).
 
 RN.Ai-Predict can generate and evaluate all possible siRNAs for a target in two ways:
 1.  **From a FASTA file:** Provide your own mRNA sequence.
